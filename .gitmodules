@@ -1,3 +1,6 @@
 [submodule "BA1/Proyecto-laravel"]
 	path = BA1/Proyecto-laravel
 	url = https://github.com/apascualg/Proyecto-laravel.git
+[submodule "Teoria"]
+	path = Teoria
+	url = https://github.com/malbareda/DAW-Servidors.git
