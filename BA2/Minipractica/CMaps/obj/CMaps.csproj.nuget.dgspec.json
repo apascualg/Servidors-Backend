@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Servidors-Backend\\BA2\\Minipractica\\Minipractica\\Minipractica.csproj": {}
+    "C:\\Users\\ies\\Servidors-Backend\\BA2\\Minipractica\\CMaps\\CMaps.csproj": {}
   },
   "projects": {
-    "D:\\Servidors-Backend\\BA2\\Minipractica\\Minipractica\\Minipractica.csproj": {
+    "C:\\Users\\ies\\Servidors-Backend\\BA2\\Minipractica\\CMaps\\CMaps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Servidors-Backend\\BA2\\Minipractica\\Minipractica\\Minipractica.csproj",
-        "projectName": "Minipractica",
-        "projectPath": "D:\\Servidors-Backend\\BA2\\Minipractica\\Minipractica\\Minipractica.csproj",
+        "projectUniqueName": "C:\\Users\\ies\\Servidors-Backend\\BA2\\Minipractica\\CMaps\\CMaps.csproj",
+        "projectName": "CMaps",
+        "projectPath": "C:\\Users\\ies\\Servidors-Backend\\BA2\\Minipractica\\CMaps\\CMaps.csproj",
         "packagesPath": "C:\\Users\\ies\\.nuget\\packages\\",
-        "outputPath": "D:\\Servidors-Backend\\BA2\\Minipractica\\Minipractica\\obj\\",
+        "outputPath": "C:\\Users\\ies\\Servidors-Backend\\BA2\\Minipractica\\CMaps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

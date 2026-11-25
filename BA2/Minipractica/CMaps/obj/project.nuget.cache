@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdKlnYClkm8=",
+  "dgSpecHash": "gSkGneDV+cU=",
   "success": true,
-  "projectFilePath": "D:\\Servidors-Backend\\BA2\\Minipractica\\Minipractica\\Minipractica.csproj",
+  "projectFilePath": "C:\\Users\\ies\\Servidors-Backend\\BA2\\Minipractica\\CMaps\\CMaps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ies\\.nuget\\packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
     "C:\\Users\\ies\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.18\\microsoft.bcl.cryptography.9.0.18.nupkg.sha512",

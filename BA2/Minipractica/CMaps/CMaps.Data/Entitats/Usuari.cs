@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Runtime.CompilerServices;
+using Microsoft.EntityFrameworkCore;
 
 namespace Minipractica.Entitats;
 
@@ -24,4 +24,5 @@ namespace Minipractica.Entitats;
 
         // Como es una relación 1-N, la parte del N tiene la <Castillo>.
         // Porque siempre apuntará a una misma entidad.
+        
     }
